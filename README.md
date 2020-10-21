@@ -142,7 +142,7 @@ $ kubectl get ns
  ```sh
 $ kubectl get pod -n NAMESPACE -o wide 
 ```
-![get-pod](/get-pod.png)
+![get-pod](/get-pods.png)
 
 
  ```sh
