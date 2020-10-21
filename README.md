@@ -1,7 +1,7 @@
 # Get Jenkins on IBM Cloud
 
 You should have an IBM Cloud account, otherwise you can [register here].
-At the end of the tutorial you will have a cluster with Nginx up and runnning.
+At the end of the tutorial you will have a cluster with Jenkins up and runnning.
 
 1. We will provision a new Kubernetes Cluster for you if, you already have one skip to step **2**
 2. We will deploy  the IBM Cloud Block Storage plug-in, if already have it skip to step **3**
@@ -69,7 +69,7 @@ The Block Storage plug-in is a persistent, high-performance iSCSI storage that y
 
 ## Step 3 deploy Jenkins
   
-We will deploy  Nginx on our cluster 
+We will deploy  Jenkins on our cluster 
   
 * Click the **Catalog** button on the top 
 * Select **Software** from the catalog
