@@ -162,7 +162,7 @@ $ kubectl get service -n NAMESPACE
 
 ![welcomes](/welcome.png)
 
-Jenkinsan Nginx webserver on IBM Cloud! 
+You have succesfully deployed Jenkins on IBM Cloud! 
 
 
 
