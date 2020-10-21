@@ -74,17 +74,17 @@ We will deploy  Nginx on our cluster
 * Click the **Catalog** button on the top 
 * Select **Software** from the catalog
 * Search for **Jenkins** and click on it
-![Nginx](/nginx-search.png)
+![Nginx](/search.png)
 
 * Please select IBM Kubernetes Service
 ![target](/select-target.png)
 
 * On the application page Click in the _dot_ next to the cluster, you wish to use
-![Cluster](/select-cluster.png)
+![Cluster](/cluster-select.png)
 * Click on  **Enter or Select Namespace** and choose the default Namespace or use a custom one 
 ![Namespace](/details-namespace.png)
 * Give a unique **name** to workspace, which you can easily recognize
-![Name](/details-name.png)
+![Name](/details-names.png)
 * Select which resource group you want to use, it's for access controll and billing purposes. For more information please visit [resource groups]
 
 ![dr-resource](/details-resource.png)
