@@ -74,10 +74,10 @@ We will deploy  Jenkins on our cluster
 * Click the **Catalog** button on the top 
 * Select **Software** from the catalog
 * Search for **Jenkins** and click on it
-![Nginx](/search.png)
+![Jenkins](/search.png)
 
 * Please select IBM Kubernetes Service
-![target](/select-target.png)
+![target](/target-select.png)
 
 * On the application page Click in the _dot_ next to the cluster, you wish to use
 ![Cluster](/cluster-select.png)
@@ -91,7 +91,7 @@ We will deploy  Jenkins on our cluster
 
 * Give **tags** to your Jenkins, for more information visit [tags]
 
-![nginx-tags](/details-tags.png)
+![jenkins-tags](/details-tags.png)
 
 * Click on **Parameters with default values**, You can set deployment values or use the default ones
 
@@ -110,7 +110,7 @@ We will deploy  Jenkins on our cluster
 
 * Your  Jenkins workspace has been successfully deployed
 
-![nginx-finsihed](/done.png)
+![jenkins-finsihed](/done.png)
 
 ## Verify Jenkins installation
 
